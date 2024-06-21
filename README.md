@@ -50,6 +50,10 @@ Highlights the reasons to choose Vidyam, emphasizing features like personal ment
 
 An image slider component that automatically cycles through multiple images related to the educational platform, enhancing visual appeal.
 
+### `Programs.jsx`
+
+This is the program pages and it has been used to list the programs.
+
 ### `Footer.jsx`
 
 Includes contact information, social media links, and quick links to important sections like courses, demo classes, and contact details.
